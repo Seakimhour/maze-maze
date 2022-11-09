@@ -1,13 +1,13 @@
 {
   "name": "maze-maze",
   "version": "1.0.0",
-  "description": "Generate maze and output to terminal",
+  "description": "Generate maze and print output to terminal",
   "main": "maze.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "maze-maze": "./maze.js"
+    "maze-maze": "maze.js"
   },
   "keywords": [
     "generate",
@@ -20,10 +20,10 @@
   "author": "Sea Kimhour",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Seakimhour/maze-maze.git/issues",
-    "email" : "seakimhour@gmail.com"
+    "url": "https://github.com/Seakimhour/maze-maze/issues",
+    "email": "seakimhour@gmail.com"
   },
-  "homepage": "https://github.com/Seakimhour/maze-maze.git#readme",
+  "homepage": "https://github.com/Seakimhour/maze-maze#readme",
   "devDependencies": {
     "eslint": "^8.27.0",
     "eslint-config-standard": "^17.0.0",
