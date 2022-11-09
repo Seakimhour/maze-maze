@@ -6,12 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "maze-maze": "./maze.js"
+  },
   "keywords": [
     "generate",
     "maze"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seakimhour/maze-maze.git"
+  },
   "author": "Sea Kimhour",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seakimhour/maze-maze.git/issues",
+    "email" : "seakimhour@gmail.com"
+  },
+  "homepage": "https://github.com/Seakimhour/maze-maze.git#readme",
   "devDependencies": {
     "eslint": "^8.27.0",
     "eslint-config-standard": "^17.0.0",
