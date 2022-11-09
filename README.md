@@ -6,7 +6,7 @@ This javascript will generate a maze according to input area. maze is generate u
 
 ## Installation
 ```
-
+npm i maze-maze
 ```
 
 ## Usage
