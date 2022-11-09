@@ -1,0 +1,22 @@
+{
+  "name": "maze-maze",
+  "version": "1.0.0",
+  "description": "Generate maze and output to terminal",
+  "main": "maze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generate",
+    "maze"
+  ],
+  "author": "Sea Kimhour",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.5.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
